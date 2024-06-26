@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java and Microservices**
 
-- 📫 How to reach me **moraesd346@gmail.com**
+- 📫 How to reach me **danielducatmoraes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
